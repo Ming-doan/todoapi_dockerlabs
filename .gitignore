@@ -1,0 +1,8 @@
+.env
+env/
+__pycache__/
+
+# Hidden files for Labs practice
+Dockerfile
+.dockerignore
+docker-compose.yml
